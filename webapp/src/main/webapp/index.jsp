@@ -16,7 +16,7 @@
                   <span>Data Engineer</span>
                   
                   <div class="px-4 mt-1">
-                      <p class="fonts"> Working tech Python|Deops|Hadoop|Spark|Sqoop</p>
+                      <p class="fonts"> Working tech Python|Deops|Hadoop|Spark|Sqoop|AWS|Azure</p>
                   
                   </div>
                   
