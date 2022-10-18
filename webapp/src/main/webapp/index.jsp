@@ -12,8 +12,8 @@
               
               <div class="text-center mt-3">
                   <span class="bg-secondary p-1 px-4 rounded text-white">Pro</span>
-                  <h5 class="mt-2 mb-0">Alexender Schidmt</h5>
-                  <span>UI/UX Designer</span>
+                  <h5 class="mt-2 mb-0">Rupesh Deshmukh</h5>
+                  <span>Devops</span>
                   
                   <div class="px-4 mt-1">
                       <p class="fonts">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
