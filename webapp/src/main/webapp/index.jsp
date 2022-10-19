@@ -24,7 +24,7 @@ body, html {height: 100%}
     Ckpro
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top">Rupesh Deshmukh & Tejas Joshi</h1>
+    <h1 class="w3-jumbo w3-animate-top">RP</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
