@@ -10,7 +10,7 @@
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('https://lh3.googleusercontent.com/c4ZV13wXV1lGzoOhL3biI4Vi1zVDsKYunIn_qF0FpCUu-QAV4gECaHEEF4NrcJy1fJe-VM_Of_12YhIhlk4890TK2rWLLmy1xZaoZA3NYA4mo8qrGrU9mXhU-vVfOkM1tkFYEmJkhUMKx-yg1QhHDdIoeslg8y7n9pwoLdukr4LQpJdyjir6lhZMR9uSiKlsBIEFItaLCoIFEW3nqME0JfYEByfh3x7z7c_VTUtyFIo-87ARN9_ohQShPBrWqlJSs5lXAtQ1V9F9yws_q4bIf3hrXTYAMmpfi8OX_mRR_mrII06mwOGWkF0ADrJEHucZUCKGl6NRH_YA3XU_VFHenxqVpXH1DY-mzsfdfkHkJWjkUri32q2yRbOOhvu0r0QSZuBAjEsH6EoWxQ1U3d9H0PZLjn8bGxvdgb-GseDNoDMzRpnhWpPG0YNln6Kp_kbe-8QhB0YiMh9VDMaffx0UF6vbzP1SDLyZ5NhSz6c5iLeJlHUtYeuCu2TUGTvj_w0ZIVuYO8ah9br0aIRqqGgMStWzQgi1sdJeQaUedZH8BtiAumBcosyD7YIS5-FhQYOmS2pf2jvnfAzI1buEd2ZRwrRR8pm0dlSraY-iBrC-JZyRbOZGrLF7riNVJ0A_q8cIRo8SNGY421FFJg5cTXC2AZOl75_0K9AJf8jyQsveSM50hJNr3bRsoJrEbrIgZF_ojq703xupiBUYWkrr-2T_rjVPYSEqkdTHdqN4zo6EOakEjEgiokSy0uKg35DfeRgs4tN2AE8i7GSgATDOZ5ZIy3hO8gatJYcbH3F_vIArsgA0kny4uPy9Ll7hWaV54rSdcIk-JsrvxCVN_ZFonOaXVfI9MC6X8ltzVabuJ9awwbCOnK-c-OTaT39Cgb8TOR6ovSQqp6HFPgrHQuB1mxZzNg_qVXah-JooJSVX5X22a6ASNAVKS3hmJ9Y2zyrapvMmNvLoXNGveIh1jU1Fcw=w2880-h1300-no?authuser=0');
+  background-image: url('https://lh3.googleusercontent.com/sE4R2TwklGabb1Qv_yQ30kngGkOtwzz3WiKBUOoYdct4Lb7kl0JkxQmyRs6PMZxwaQ73yHbaIbNJjOqldRh4rsi3BtYolFxECuE-OO3wCd64f9_tQa_Vv88JlJLE05GNRfzGd4kGG7HCno4hIgRsRSky9fYsHjGEL_m-Hcdwa0IOVv19ihoGtN_gd8RgoA4IQ5Otidop1g-K8wTgkOjFXmSryncZBBN9_EeYkg1cnnOzb8hPtOjXH9afNTqvXKSTWvIOrWVp8nH2P8lcbKFUM-32QfIt4MWwZQrTIi-9IDXHDy0CqFBg9Tktic0W2H3yEFXf51ZZKPDTnJe0Rp_TMgCU-VhricrZqVAqokc1lJAk6L5V7nWKuVrFSKrzJO7nzEOKWZWN9rhsXOmPXo22BMUyGVmb9EBLF3OGrM-LLrf8BrFUDroylavFBklwgG-hZqfCZjiNVswoGFK-_57f0Lma3xZx_LfZXR5ZxfchRRBVWAU6RowlhiiRweE0rm6piY-ypNwRuXBThkEpX1Dp3bTOlAOaNYBYG9w_YV_M690BbOwtXhrEz23MeaBoI3jf8xlg1EQBSfkelgdP8Ksx0LC2DB1AGKd_JZ_5Gkl00Se0fq2K_b8InswV5WY5XgCTqfG3LpQEK-A1eMxgLK3zbd1Q6gxkzNKJGEOSXafCbW3dvYeaY0uEDEqGA8H3kzMxyILH8r5627IgXkYNanYd6DH-RbpMcIPhVUka13D7McIz-w952VG3jFx0Im52VH5fAlYRdWc9Net1AxkMEx1bu5vjJONom2Hu84U0ihdHZRF3D9SgG_KO0q3N1G6n3ldq1UixPsmnn0nyEp9rDqi1jyVfRMgwPx0UpvdKyxQjTpBhLw8WmZJ6qrnC708jN1McKk0KGm0ooINkSrvNS2St0upM96qkaYp_y_SwKl7Vg2XUCTpxl4nppPqTNZzBHqV71s00JEpu8aw=w2104-h1578-no?authuser=0');
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -24,7 +24,7 @@ body, html {height: 100%}
     Ckpro
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top">Rupesh & Pratiksha</h1>
+    <h1 class="w3-jumbo w3-animate-top">CRT</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
